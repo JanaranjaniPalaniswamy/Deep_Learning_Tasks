@@ -1,7 +1,7 @@
 # Deep_Learning_Tasks
 Deep Learning assignments using TensorFlow and Keras libraries - SS 2020.
 
-#Tasks:
+**Tasks:**
 
 1. Simple regresion:
    In this task I revisited the mathematical background for a simple regression and covered it's practical implementation in Tensorflow 2. I also explored the phenomenon of overfitting and derived different regularizations from a probabilistic perspective. This exercise covers a very simple task with a very basic neural architecture. 
